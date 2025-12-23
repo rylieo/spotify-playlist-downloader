@@ -1,0 +1,8 @@
+{
+  "output_folder": "downloads",
+  "audio_format": "mp3",
+  "bitrate": "192k",
+  "filename_template": "{artist} - {title}",
+  "download_lyrics": false,
+  "skip_existing": true
+}
